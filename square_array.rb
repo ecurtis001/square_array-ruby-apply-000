@@ -3,4 +3,5 @@ def square_array(array)
   array.each do |x|
     newarray<<(x*x)
   end
+  newarray
 end
